@@ -1,0 +1,22 @@
+[
+    {
+        "idNote": 1,
+        "title": "Belajar Python Flask",
+        "content": "Mempelajari dasar pembuatan REST API dengan Flask."
+    },
+    {
+        "idNote": 2,
+        "title": "Catatan Meeting 5",
+        "content": "Membaca dan menyimpan data ke file JSON sebagai database sederhana."
+    },
+    {
+        "idNote": 3,
+        "title": "Rencana Belajar",
+        "content": "Melengkapi fitur CRUD (Create, Read, Update, Delete) pada API."
+    },
+    {
+        "idNote": 7,
+        "title": "Coba create data JSON dengan Flask",
+        "content": "Bismillah Bisa"
+    }
+]

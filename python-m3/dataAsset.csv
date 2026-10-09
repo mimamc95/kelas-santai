@@ -1,0 +1,6 @@
+ID;Nama;Kategori;Tanggal;Status
+1;CCTV Lobby;Hardware;2026-10-02;Aktif
+2;Switch Lantai 2;Network;2026-10-01;Maintenance
+3;Server Backup;Server;2026-09-30;Aktif
+4;Kamera Gudang;Hardware;2026-09-29;Rusak
+5;Router Kantor;Network;2026-09-28;Aktif
