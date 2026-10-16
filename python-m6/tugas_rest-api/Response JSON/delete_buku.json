@@ -1,0 +1,4 @@
+{
+  "error": "Conflict",
+  "message": "Buku tidak dapat dihapus karena masih memiliki relasi dengan data Penulis atau Kategori"
+}

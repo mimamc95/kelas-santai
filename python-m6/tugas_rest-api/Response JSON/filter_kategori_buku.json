@@ -1,0 +1,56 @@
+{
+  "status": "Success",
+  "message": "Data buku berhasil diambil",
+  "data": [
+    {
+      "idBuku": 1,
+      "judul": "test1",
+      "isbn": "1qwerty",
+      "harga": "10000",
+      "idKategori": 1,
+      "kategori": {
+        "idKategori": 1,
+        "namaKategori": "Buku Fiksi",
+        "deskripsi": "Cerita rekaan seperti novel, cerpen, dan komik.",
+        "createdAt": "2026-10-14T21:48:20",
+        "updatedAt": "2026-10-14T21:48:20"
+      },
+      "idPenulis": 1,
+      "penulis": {
+        "idPenulis": 1,
+        "namaPenulis": "Zafran",
+        "email": "test@email.com",
+        "createdAt": "2026-10-14T21:26:21",
+        "updatedAt": "2026-10-14T21:26:21"
+      },
+      "tahunTerbit": "2026",
+      "createdAt": "2026-10-14T22:07:49",
+      "updatedAt": "2026-10-14T22:07:49"
+    },
+    {
+      "idBuku": 3,
+      "judul": "test3",
+      "isbn": "2qwerty",
+      "harga": "20000",
+      "idKategori": 1,
+      "kategori": {
+        "idKategori": 1,
+        "namaKategori": "Buku Fiksi",
+        "deskripsi": "Cerita rekaan seperti novel, cerpen, dan komik.",
+        "createdAt": "2026-10-14T21:48:20",
+        "updatedAt": "2026-10-14T21:48:20"
+      },
+      "idPenulis": 1,
+      "penulis": {
+        "idPenulis": 1,
+        "namaPenulis": "Zafran",
+        "email": "test@email.com",
+        "createdAt": "2026-10-14T21:26:21",
+        "updatedAt": "2026-10-14T21:26:21"
+      },
+      "tahunTerbit": "2026",
+      "createdAt": "2026-10-14T22:07:49",
+      "updatedAt": "2026-10-14T22:07:49"
+    }
+  ]
+}

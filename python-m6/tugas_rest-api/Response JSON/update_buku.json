@@ -1,0 +1,29 @@
+{
+  "status": "Success",
+  "message": "Data buku berhasil diupdate",
+  "data": {
+    "idBuku": 8,
+    "judul": "doraemon (updated)",
+    "isbn": "test123",
+    "harga": "22000",
+    "idKategori": 3,
+    "kategori": {
+      "idKategori": 3,
+      "namaKategori": "Buku Referensi",
+      "deskripsi": "Buku yang tidak boleh dipinjam pulang dan hanya dibaca di tempat (kamus, ensiklopedia, direktori, almanak)",
+      "createdAt": "2026-10-14T21:48:20",
+      "updatedAt": "2026-10-14T21:48:20"
+    },
+    "idPenulis": 1,
+    "penulis": {
+      "idPenulis": 1,
+      "namaPenulis": "Zafran",
+      "email": "test@email.com",
+      "createdAt": "2026-10-14T21:26:21",
+      "updatedAt": "2026-10-14T21:26:21"
+    },
+    "tahunTerbit": "2026",
+    "createdAt": "2026-10-16T20:22:43",
+    "updatedAt": "2026-10-16T20:22:43"
+  }
+}

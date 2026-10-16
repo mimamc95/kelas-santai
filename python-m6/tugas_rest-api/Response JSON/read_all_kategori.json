@@ -1,0 +1,27 @@
+{
+  "status": "Success",
+  "message": "Data kategori berhasil diambil",
+  "data": [
+    {
+      "idKategori": 1,
+      "namaKategori": "Buku Fiksi",
+      "deskripsi": "Cerita rekaan seperti novel, cerpen, dan komik.",
+      "createdAt": "2026-10-14T21:48:20",
+      "updatedAt": "2026-10-14T21:48:20"
+    },
+    {
+      "idKategori": 2,
+      "namaKategori": "Buku Nonfiksi",
+      "deskripsi": "Buku berbasis fakta seperti buku pelajaran, biografi, dan esai",
+      "createdAt": "2026-10-14T21:48:20",
+      "updatedAt": "2026-10-14T21:48:20"
+    },
+    {
+      "idKategori": 3,
+      "namaKategori": "Buku Referensi",
+      "deskripsi": "Buku yang tidak boleh dipinjam pulang dan hanya dibaca di tempat (kamus, ensiklopedia, direktori, almanak)",
+      "createdAt": "2026-10-14T21:48:20",
+      "updatedAt": "2026-10-14T21:48:20"
+    }
+  ]
+}

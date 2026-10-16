@@ -1,0 +1,27 @@
+{
+  "status": "Success",
+  "message": "Data penulis berhasil diambil",
+  "data": [
+    {
+      "idPenulis": 1,
+      "namaPenulis": "Zafran",
+      "email": "test@email.com",
+      "createdAt": "2026-10-14T21:26:21",
+      "updatedAt": "2026-10-14T21:26:21"
+    },
+    {
+      "idPenulis": 2,
+      "namaPenulis": "Imam",
+      "email": "test1@email.com",
+      "createdAt": "2026-10-14T21:30:22",
+      "updatedAt": "2026-10-14T21:30:22"
+    },
+    {
+      "idPenulis": 6,
+      "namaPenulis": "Upin",
+      "email": "upin@email.com",
+      "createdAt": "2026-10-15T19:43:51",
+      "updatedAt": "2026-10-15T19:43:51"
+    }
+  ]
+}

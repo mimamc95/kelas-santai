@@ -1,0 +1,11 @@
+{
+  "status": "Success",
+  "message": "Data penulis berhasil diupdate",
+  "data": {
+    "idPenulis": 7,
+    "namaPenulis": "Ehsan",
+    "email": "ehsan_update@email.com",
+    "createdAt": "2026-10-16T20:22:43",
+    "updatedAt": "2026-10-16T20:22:43"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "status": "Success",
+  "message": "Data kategori berhasil ditambahkan",
+  "data": {
+    "idKategori": 10,
+    "namaKategori": "Koleksi Khusus(2)",
+    "deskripsi": "Karya ilmiah milik institusi seperti skripsi, tesis, dan disertasi",
+    "createdAt": "2026-10-16T20:22:43",
+    "updatedAt": "2026-10-16T20:22:43"
+  }
+}
